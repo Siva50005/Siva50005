@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @Siva50005
-- 👀 I’m interested in Programming
-- 🌱 I’m currently learning Python
-- 💞️ I’m looking to collaborate on ----
+- 👀 I’m a Programmer 
+- 🌱 I’m currently working on Python for machine learning
 - 📫 How to reach me __My email: sivanayya11@gmail.com
 
 <!---
