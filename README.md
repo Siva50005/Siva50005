@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Siva A</h1>
 <h3 align="center">An incomprehensible person who thinks he's a programmer😄</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=siva50005&label=Profile%20views&color=ff6200&style=flat" alt="siva50005" /> </p>
-
 - 🔭 I’m currently working on **Myself😜**
 
 - 🌱 I’m currently learning **Python for DataScience**
