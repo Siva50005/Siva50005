@@ -7,8 +7,6 @@
 
 - 🌱 I’m currently learning **Python for DataScience**
 
-- 👯 I’m looking to collaborate on **any python based projects**
-
 - 💬 Ask me about **C, C++ and Java**
 
 - 📫 How to reach me **itsmesiva55@gmail.com**
