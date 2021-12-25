@@ -2,8 +2,6 @@
 
 - 🔭 I’m currently working on **Myself😜**
 
-- 🌱 I’m currently learning **Python for DataScience**
-
 - 💬 Ask me about **C, C++ and Java**
 
 - 📫 How to reach me **itsmesiva55@gmail.com**
