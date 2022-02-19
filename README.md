@@ -2,7 +2,7 @@
 
 - 🔭 I’m currently working on **Myself😜**
 
-- 💬 Ask me about **C, C++ and Java**
+- 💬 Ask me about **C, C++, Java and Python**
 
 - 📫 How to reach me **itsmesiva55@gmail.com**
 
