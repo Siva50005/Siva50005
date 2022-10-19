@@ -2,6 +2,10 @@
 
 - 🔭 I’m currently working on **Myself😜**
 
+- 🤖Trying to learn ML and DL.
+
+- 🤝Interested in collaborating in ML and DL based projects.
+
 - 💬 Ask me about **C, C++, Java and Python**
 
 - 📫 How to reach me **itsmesiva55@gmail.com**
