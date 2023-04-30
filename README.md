@@ -66,7 +66,7 @@
 
 
 
-<h3> 🤝🏻 Connect with Me </h3>
+<!-- <h3> 🤝🏻 Connect with Me </h3>
 
 <br>
 
@@ -74,16 +74,23 @@
 
 <p align="center">
 
-<!-- <a href="https://shivammalpani.netlify.app/"><img alt="Website" src="https://img.shields.io/badge/shivammalpani.netlify.app-black?style=flat-square&logo=google-chrome"></a> -->
+<a href="https://shivammalpani.netlify.app/"><img alt="Website" src="https://img.shields.io/badge/shivammalpani.netlify.app-black?style=flat-square&logo=google-chrome"></a>
 
 <a href="https://linkedin.com/in/siva-a-090260220"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Shivam%20Malpani-blue?style=flat-square&logo=linkedin"></a>
 
-<!-- <a href="https://www.instagram.com/i__disbalance/"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-i__disbalance-black?style=flat-square&logo=instagram"></a> -->
+<a href="https://www.instagram.com/i__disbalance/"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-i__disbalance-black?style=flat-square&logo=instagram"></a>
 
 <a href="mailto:sivanayya11@gmail.com.com"><img alt="Email" ></a>
 
 </p>
-
+ -->
+ 
+ <h3 align="left"><i><b>Connect with me:</b></i></h3>
+&nbsp;
+<p align="left">
+<a href="https://linkedin.com/in/siva-a-090260220" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="siva-a-090260220" height="30" width="40" /></a>
+<a href="https://instagram.com/naan.dhaan.siva" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="naan.dhaan.siva" height="30" width="40" /></a>
+</p>
 
 
 
