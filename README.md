@@ -48,7 +48,8 @@
 
 <br/><br/>
 
-[![Shiva's GitHub Stats]([https://github-readme-stats.vercel.app/api?username=shivam0110&show_icons=true](https://github-readme-stats.vercel.app/api?username=siva50005&show_icons=true&theme=dark&title_color=00ff1e&text_color=ffee00&bg_color=11004d&cache_seconds=1800&locale=en))](https://github.com/Siva50005)
+<!-- [![Shiva's GitHub Stats]([https://github-readme-stats.vercel.app/api?username=shivam0110&show_icons=true](https://github-readme-stats.vercel.app/api?username=siva50005&show_icons=true&theme=dark&title_color=00ff1e&text_color=ffee00&bg_color=11004d&cache_seconds=1800&locale=en))](https://github.com/Siva50005) -->
+## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b> Github Status </b>
 
 <br/>
 
@@ -89,7 +90,7 @@
 &nbsp;
 <p align="left">
 <a href="https://linkedin.com/in/siva-a-090260220" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="siva-a-090260220" height="30" width="40" /></a>
-<a href="https://instagram.com/naan.dhaan.siva" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="naan.dhaan.siva" height="30" width="40" /></a>
+<a href="https://instagram.com/siva_11_1000_10" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="siva_11_1000_10" height="30" width="40" /></a>
 </p>
 
 
