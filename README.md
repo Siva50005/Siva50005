@@ -148,15 +148,6 @@
   </p>
 </details>
 
-<details><summary><h3>⚡ Recent GitHub Activity</h3></summary>
-
-----
-	
-[![Siva50005's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=Siva50005&theme=github	)](https://github.com/7oSkaaa/github-readme-activity-graph)
-
- 
-</details>
-
 <details><summary> <h3> :trophy: Git profile Trophies </h3></summary>
 
 ----
